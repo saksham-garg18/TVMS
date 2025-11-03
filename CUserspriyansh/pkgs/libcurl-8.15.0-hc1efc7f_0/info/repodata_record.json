@@ -1,0 +1,30 @@
+{
+  "arch": "x86_64",
+  "build": "hc1efc7f_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch/",
+  "constrains": [],
+  "depends": [
+    "__glibc >=2.17,<3.0.a0",
+    "libgcc-ng >=11.2.0",
+    "libnghttp2 >=1.57.0",
+    "libnghttp2 >=1.57.0,<2.0a0",
+    "libssh2 >=1.11.1",
+    "libssh2 >=1.11.1,<2.0a0",
+    "openssl >=3.0.17,<4.0a0",
+    "zlib >=1.2.13,<2.0.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "fn": "libcurl-8.15.0-hc1efc7f_0.conda",
+  "license": "curl",
+  "license_family": "MIT",
+  "md5": "b9f6b8c89fd59e3fb8a1be78c64eb0ca",
+  "name": "libcurl",
+  "platform": "linux",
+  "sha256": "a15d25f8ac7daf630bcde19a293bf2b89854a7208b17046747cb967cdd8be8a8",
+  "size": 510299,
+  "subdir": "linux-64",
+  "timestamp": 1756460277000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libcurl-8.15.0-hc1efc7f_0.conda",
+  "version": "8.15.0"
+}

@@ -1,0 +1,25 @@
+{
+  "arch": "x86_64",
+  "build": "py313hfc0e8ea_100",
+  "build_number": 100,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch/",
+  "constrains": [
+    "conda >=23.7"
+  ],
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313"
+  ],
+  "fn": "anaconda-anon-usage-0.7.3-py313hfc0e8ea_100.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "md5": "9fb3325a2275a26860b0f19914c52010",
+  "name": "anaconda-anon-usage",
+  "platform": "linux",
+  "sha256": "3a8fe59e0230651ee9abbd44aa6d36e725aa2a12cb49902baed4ddc325da62ae",
+  "size": 39101,
+  "subdir": "linux-64",
+  "timestamp": 1757625724000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/anaconda-anon-usage-0.7.3-py313hfc0e8ea_100.conda",
+  "version": "0.7.3"
+}
